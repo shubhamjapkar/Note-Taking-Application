@@ -1,0 +1,6 @@
+ul{padding: 5px 0;}
+li{list-style: none;}
+.addListbutton{margin: 10px 0;}
+.noteList{display: flex;gap: 20px;}
+
+body{background: rgb(134, 102, 102);}
